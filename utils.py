@@ -1,6 +1,6 @@
 import openvino as ov
-import gradio as gr
-import ipywidgets as widgets
+
+
 import yaml
 
 from typing import Tuple
